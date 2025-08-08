@@ -7,3 +7,5 @@ elif grade == 'C':
     print("You passed.")
 elif grade == 'D':
     print("You need to improve.")
+else:
+    print("Invalid grade.")
