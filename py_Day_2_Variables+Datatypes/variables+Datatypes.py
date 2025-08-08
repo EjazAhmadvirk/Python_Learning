@@ -20,6 +20,7 @@ person = {
     "name": "Ejaz",
     "age": 25,
     "is_student": True
+    
 }
 
 
