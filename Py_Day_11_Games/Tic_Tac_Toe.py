@@ -73,3 +73,11 @@ def tic_tac_toe():
 
 # Run the game
 tic_tac_toe()
+
+
+
+# Tic Tac Toe game in Python
+#Game Instructions
+# Players take turns placing their marks (X or O) on a 3x3 grid 
+# The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins
+# If all nine squares are filled and neither player has three in a row, the game ends in a draw 
