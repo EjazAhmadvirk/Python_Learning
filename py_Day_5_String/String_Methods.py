@@ -10,3 +10,5 @@ print(msg.count("l"))    # 3
 print(msg.startswith("  Hello"))  # True
 print(msg.endswith("World  "))  # True
 
+# This file add all function of string methods in python
+# String methods in Python
