@@ -22,7 +22,7 @@ person = {
     "is_student": True
     
 }
-
+# This will show output on terminal 
 
 print("Age:", age) # Output: Age: 25
 print("Price:", price) # Output: Price: 99.99
