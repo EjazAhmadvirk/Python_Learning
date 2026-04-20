@@ -9,7 +9,7 @@ car_details = {
     "D": ("Ford 2019", 6000),
     "E": ("Toyota 2019", 7000)
 }
-
+# we collect coustomer data by using this structure
 # Customer structure (using dictionary instead of struct)
 customer = {
     "name": "",
