@@ -70,7 +70,7 @@ def calculate_rent(carmodel, days):
     else:
         return 0
 
-# Show invoice
+# Show invoice, we customize text under samicolan according to your chooise 
 def show_invoice(customer, days, rental_fee):
     carmodel_name = car_details[customer["carmodel"]][0]
     print("\n                  Car Rental - Customer Invoice")
