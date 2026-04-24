@@ -15,3 +15,6 @@ elif (user_choice == "rock" and computer_choice == "scissors") or \
     print("🎉 You win!")
 else:
     print("💻 Computer wins!")
+
+
+#Rock paper scissor complete game code in python. in this game main important function use called if-elif-else for decision making 
