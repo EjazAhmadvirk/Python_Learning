@@ -8,7 +8,7 @@ def print_board(board):
         print("-" * 5)
     print("\n")
 
-# Function to check winner
+# Function to check winner 
 def check_winner(board, player):
     # Check rows
     for row in board:
@@ -76,7 +76,7 @@ tic_tac_toe()
 
 
 
-# Tic Tac Toe game in Python
+# Tic Tac Toe game in Python, complete game with good user experince 
 #Game Instructions
 # Players take turns placing their marks (X or O) on a 3x3 grid 
 # The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins
