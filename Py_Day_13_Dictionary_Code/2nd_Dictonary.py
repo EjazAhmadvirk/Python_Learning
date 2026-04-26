@@ -12,7 +12,7 @@ dict4 = {
     "student1": {"name": "Ali", "age": 20},
     "student2": {"name": "Ejaz", "age": 21}
 }
-
+ # this will show output of the above dictionaries 
 print(dict1)
 print(dict2)
 print(dict3)
