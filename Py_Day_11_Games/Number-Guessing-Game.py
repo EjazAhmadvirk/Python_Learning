@@ -4,7 +4,7 @@ number_to_guess = random.randint(1, 100)
 attempts = 0
 # Print welcome message and instructions
 print("Guess the number between 1 and 100!")
-
+# condition in boleen 
 while True:
     guess = int(input("Enter your guess: "))
     attempts += 1
